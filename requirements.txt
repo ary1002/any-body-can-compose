@@ -1,0 +1,22 @@
+
+av
+einops
+flashy
+hydra-core
+hydra_colorlog
+julius
+num2words
+numpy
+sentencepiece
+spacy==3.5.2
+torch
+torchaudio
+huggingface_hub
+tqdm
+transformers
+# xformers
+demucs
+librosa
+gradio
+torchmetrics
+encodec
